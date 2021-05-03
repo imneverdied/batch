@@ -1,0 +1,1 @@
+type nul>source.txt
