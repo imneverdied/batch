@@ -1,3 +1,3 @@
 @echo off
-7z a ¿£¡Y¿….7z ®”∑Ω.txt
-7z a ¿£¡Y¿…±KΩX12345.7z ®”∑Ω.txt -p12345
+7z a compres.7z source.txt
+7z a EncryptionCompression12345.7z source.txt -p12345
